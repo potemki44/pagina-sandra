@@ -1,0 +1,87 @@
+*{
+  padding:0PX;/*esto es para el espacio del la pagina en total 
+  que no queden los blancos en el header*/
+  margin:0; /*parecido al padding pero en las margenes*/}
+
+header{padding:5PX;/*esto es para separar desde arriba 
+                          el espacio del header con el div*/
+                width: 100%; 
+                  height: 130px;/*esto es la altura en pixeles*/
+                      background:white;
+                      padding-bottom: 32px;}
+
+                      #divisionencabezado{width: 85%;
+                               height: 100px;
+                                  background:white;
+                                     margin: auto;
+                                     margin-top: 15PX}
+
+                             
+                      
+                      #divisionredes{width: 18%;
+                                      height: 14px;
+                                        background:withe;
+                                        float: right;
+                                          margin: 1PX
+                                  ;}
+                                  #divisionlogo{width: 9%;
+                                                  height: 50px;
+                                                    background:red;
+                                                    margin-left: 300px;
+                                               }
+
+
+                                            
+                                                           #menu{width: 25%;
+                                                                 height:29px ;
+                                                                  background:white;
+                                                                    
+                                                                     float: right;
+                                                                      margin: 40px;
+                                                                     padding-right:50px;
+                                                                   }
+                                                                   }
+
+  li{display: inline;}
+
+  a {font-size: 20px;
+    color: gold;
+    text-decoration:none;
+    padding:10px;
+    font-style: all;
+    text-decoration:unset;
+  }
+  a:hover{text-decoration: underline;}
+
+#container{
+  padding: 10px;
+  width: 70%;
+height:700px;
+background-color: pink;
+margin:auto;}
+
+
+
+ #gallery{
+margin: 35px;
+  width: 15%;
+  height:100px;
+}
+
+#hatgird{float: right;
+width: 55%;
+margin: 10px;
+ 
+
+}
+
+footer {background:black ;
+width:100% ;
+height:140px;}
+
+#main{margin:auto  ;
+width: 20%;
+height: 50px;}
+
+                
+              
